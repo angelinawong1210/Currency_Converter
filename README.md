@@ -5,7 +5,7 @@ This is our project at TechGirls Python team cohort 2022 under the instruction o
 
 In this project, we learnt to implement functions in converting from USD to VND, LEK, JOD and DZD, which are the currencies used in our team members' home countries. 
 
-##Instructions 
+## Instructions 
 Step 1: Choose the currency that you want to convert to USD 
 
 Step 2: Enter the amount of money and receive the results 
